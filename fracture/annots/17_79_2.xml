@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Post Augmentation</folder>
+	<filename>17_79_2.png</filename>
+	<path>C:\Users\Antonio\Desktop\Post Augmentation\17_79_2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crackTip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>86</ymin>
+			<xmax>127</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>
